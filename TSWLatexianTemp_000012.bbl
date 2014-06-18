@@ -1,0 +1,22 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[DeCuir-Gunby et~al.(2011)DeCuir-Gunby, Marshall, and
+  McCulloch]{CodebookGuide}
+Jessica~T DeCuir-Gunby, Patricia~L Marshall, and Allison~W McCulloch.
+\newblock Developing and using a codebook for the analysis of interview data:
+  An example from a professional development research project.
+\newblock \emph{Field Methods}, 23\penalty0 (2):\penalty0 136--155, 2011.
+
+\bibitem[MacQueen et~al.(1998)MacQueen, McLellan, Kay, and
+  Milstein]{CodebookGuide2}
+Kathleen~M MacQueen, Eleanor McLellan, Kelly Kay, and Bobby Milstein.
+\newblock Codebook development for team-based qualitative analysis.
+\newblock \emph{Cultural Anthropology Methods}, 10\penalty0 (2):\penalty0
+  31--36, 1998.
+
+\end{thebibliography}
